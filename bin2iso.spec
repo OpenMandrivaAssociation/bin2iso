@@ -10,7 +10,6 @@ License:	GPL
 Group:		File tools
 URL:		http://mange.dynalias.org/linux/bin2iso
 Source0:	http://mange.dynalias.org/linux/bin2iso/%{name}-%{version}.c
-BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
 This is a very simple utility to convert a BIN image
