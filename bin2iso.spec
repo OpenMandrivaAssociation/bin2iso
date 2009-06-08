@@ -1,12 +1,12 @@
 %define name    bin2iso
 %define version 0.4
-%define release %mkrel 3
+%define release %mkrel 4
 
 Name:		%{name}
 Version:	%{version}
 Release:	%{release}
 Summary:	Very simple utility to convert a BIN image
-License:	GPL
+License:	GPLv2
 Group:		File tools
 URL:		http://mange.dynalias.org/linux/bin2iso
 Source0:	http://mange.dynalias.org/linux/bin2iso/%{name}-%{version}.c
